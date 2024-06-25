@@ -1,0 +1,2 @@
+- Fundamental concepts in computation theory (e.g., automata theory, formal languages, complexity theory).
+- Mathematical foundations underlying computer science.

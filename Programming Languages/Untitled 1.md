@@ -1,0 +1,1 @@
+- Study of programming languages (e.g., Python, Java, C++) and their syntax, semantics, and design principles.

@@ -1,0 +1,1 @@
+Data structures (e.g., arrays, linked lists, trees, graphs) for organizing and storing data in memory.

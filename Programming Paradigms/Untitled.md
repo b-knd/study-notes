@@ -1,0 +1,1 @@
+- - Paradigms such as procedural, object-oriented, functional, and declarative programming.

@@ -1,0 +1,2 @@
+- Principles of computer security, including threat detection, encryption algorithms, and secure coding practices.
+- Network security, authentication, access control, and cybersecurity strategies.

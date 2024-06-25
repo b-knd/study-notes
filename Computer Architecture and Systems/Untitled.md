@@ -1,0 +1,2 @@
+- Study of computer hardware components and their organization (e.g., CPU, memory, storage).
+- Operating systems concepts (e.g., processes, memory management, file systems) and system-level programming.

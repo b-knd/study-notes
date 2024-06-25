@@ -1,0 +1,2 @@
+- rinciples and practices for designing, developing, testing, and maintaining software systems.
+- Software development methodologies (e.g., Agile, Waterfall) and practices (e.g., version control, continuous integration).

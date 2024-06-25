@@ -1,0 +1,2 @@
+- Fundamentals of computer networks (e.g., protocols, routing, TCP/IP).
+- Web technologies (e.g., HTTP, RESTful APIs, web servers) and distributed systems.

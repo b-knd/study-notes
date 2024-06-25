@@ -1,0 +1,2 @@
+- Techniques for creating intelligent systems that mimic human behavior (e.g., neural networks, natural language processing).
+- Applications such as robotics, computer vision, and data mining.

@@ -1,0 +1,2 @@
+- Study of how people interact with computers and interfaces.
+- User experience (UX) design, usability testing, and interface design principles.
